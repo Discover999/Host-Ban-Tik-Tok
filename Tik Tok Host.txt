@@ -1,0 +1,17 @@
+# Localhost (DO NOT REMOVE) Start
+127.0.0.1	localhost
+# Localhost (DO NOT REMOVE) End
+
+127.0.0.1 log.snssdk.com
+127.0.0.1 xlog.snssdk.com
+127.0.0.1 i.snssdk.com
+127.0.0.1 aweme.snssdk.com
+127.0.0.1 lf.snssdk.com
+127.0.0.1 is.snssdk.com
+127.0.0.1 api.amemv.com
+127.0.0.1 is.snssdk.com
+127.0.0.1 mon.snssdk.com
+127.0.0.1 effect.snssdk.com
+127.0.0.1 hotsoon.snssdk.com
+127.0.0.1 dm.toutiao.com
+127.0.0.1 iu.snssdk.com
